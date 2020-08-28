@@ -3,9 +3,6 @@ layout: page
 title: archive
 ---
 
-archive
-=======
-
 blog posts
 ----------
 
