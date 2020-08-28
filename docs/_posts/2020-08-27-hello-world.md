@@ -3,6 +3,8 @@ layout: post
 title: hello world?
 ---
 
+![headerpic](/assets/images/img1.png)
+
 i guess this marks the beginning of this site. the first post on a site that took embarrassingly long to set up (mostly because I wanted my own choice of font), created 5 days before the start of a virtual fall term.
 
 i have yet to figure out what aesthetic to use for this site -- i have yet to figure out anything about this site, really. longform writing (in the vein of narrative, creative nonfiction, blog posts, etc) has always been difficult for me. i think part of it is because i am perpetually oscillating between "no thoughts head empty" and "idea machine go brrrrrr but too fast to capture everything" so i am left with a bunch of haphazard content ideas that i all want to include. but also part of me screams when the organization of the piece does not feel exactly right. so this leads to the unfortunate feeling of ~paralysis~

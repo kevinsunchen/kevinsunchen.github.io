@@ -1,9 +1,11 @@
 # Setup
 title:               kevin s chen
-tagline:             'ramblings'
+tagline:             ' thought baubles'
 description:         'kevin chen<br>mit eecs 23<br>kschen at mit dot edu<br>thought bubbles & baubles'
 paginate:            5
 permalink:           pretty
+github:
+  repo: https://github.com/kevinsunchen/kevinsunchen.github.io
 
 # About/contact
 author:
