@@ -1,11 +1,12 @@
 ---
 layout: page
+title: archive
 ---
 
-Archive
+archive
 =======
 
-Blog Posts
+blog posts
 ----------
 
 {% for post in site.posts %}
