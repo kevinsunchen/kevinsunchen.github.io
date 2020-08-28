@@ -2,7 +2,7 @@
 title:               kevin s chen
 tagline:             'thought baubles'
 masthead:            /assets/images/sun.png
-description:         'kevin <img class="inline-img" src="/assets/images/sun.png"> chen<br>mit eecs 23<br>kschen at mit dot edu<br>thought bubbles & baubles'
+description:         'kevin <img class="inline-img" src="/assets/images/sun.png"> chen<br>mit eecs 23<br>kschen at mit dot edu'
 paginate:            5
 permalink:           pretty
 github:
