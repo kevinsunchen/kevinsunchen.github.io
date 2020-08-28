@@ -1,12 +1,11 @@
 ---
 layout: default
+title: home
 ---
-
 <div>
   {% capture intro %}{% include intro.md %}{% endcapture %}
   {{ intro | markdownify }}
 </div>
-  
 
 <div class="posts">
   {% for post in paginator.posts %}

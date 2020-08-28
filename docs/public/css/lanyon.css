@@ -93,6 +93,26 @@ h1, h2, h3, h4, h5, h6 {
  * Super small header above the content for site name and short description.
  */
 
+ .masthead-img {
+  display: block;
+  margin-left: 0;
+  margin-right: 8px;
+  width: 30px;
+  padding-top: 0;
+  padding-bottom: 0;
+  float: left;
+}
+
+.inline-img {
+  display: inline-block;
+  width: 15px;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 3px;
+  margin-right: 3px;
+  padding: 0%;
+}
+
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;

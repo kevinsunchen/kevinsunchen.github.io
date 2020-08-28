@@ -1,6 +1,6 @@
 <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
      styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" {% if page.title =="Home" %}checked{% endif %}>
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" {% if page.title == "home" %}checked{% endif %}>
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
@@ -29,12 +29,15 @@
       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
     -->
     <a class="sidebar-nav-item" href="{{ site.github.repo }}" target="_blank">github repo</a>
-    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+    <!--<span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
   </nav>
 
   <div class="sidebar-item">
     <p>
       &copy; {{ site.time | date: '%Y' }}. All rights reserved.
     </p>
+    <a href="https://www.linkedin.com/in/kevinsunchen/" target="_blank">
+      <img src="/public/linkedin.ico" alt="linkedin icon" width="30">
+    </a>
   </div>
 </div>
