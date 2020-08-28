@@ -3,7 +3,8 @@ layout: post
 title: hello world?
 ---
 
-![headerpic](/assets/images/img1.png)
+![headerpic](/assets/images/redpurplesunset.JPG)
+<small>*sunset - san diego, ca*<small>
 
 i guess this marks the beginning of this site. the first post on a site that took embarrassingly long to set up (mostly because I wanted my own choice of font), created 5 days before the start of a virtual fall term.
 
