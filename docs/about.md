@@ -10,7 +10,7 @@ title: about me
 who i am
 --------
 
-hi! i'm Kevin Chen, a sophomore at MIT in Course 6-2 (EECS). i'm currently (fall 2020) located in San Diego, CA.
+hi! i'm kevin chen, a sophomore at MIT in Course 6-2 (EECS). i'm currently (fall 2020) located in San Diego, CA.
 
 my email is [kschen at mit dot edu](mailto:kschen@mit.edu). 
 
@@ -29,6 +29,7 @@ what i've been up to recently
 * taking (socially-distanced) evening walks
 * looking for pink/purple/red sunsets
 * keeping a "virtual diary" of sorts
+* playing minecraft
 * thinking (stressing) about fall term
 
 
