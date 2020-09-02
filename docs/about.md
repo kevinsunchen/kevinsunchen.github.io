@@ -29,7 +29,7 @@ what i've been up to recently
 * looking for pink/purple/red sunsets
 * keeping a "virtual diary" of sorts
 * creating what is essentially an industrialized river valley civilization in minecraft with friends
-* thinking (stressing) about fall term
+* <del>stressing</del> thinking about fall term
 
 
 <p class="message">
