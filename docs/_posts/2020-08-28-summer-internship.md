@@ -43,7 +43,8 @@ the last task was a final presentation to the engineering team and the CEO, wher
 - motivating goals behind the project
 - strengths/weaknesses of the program and how i envisioned it'd fit into the company's workflow for maximum effectiveness
 - design and implementation challenges i faced and the solutions i came up with
-- future work
+- future work to be done/improvements to be made
+
 
 the project
 -----------
