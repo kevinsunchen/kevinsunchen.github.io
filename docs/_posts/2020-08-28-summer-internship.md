@@ -33,9 +33,9 @@ the internship ended with a couple of main tasks:
 
 the first was obviously to produce the final, polished version of the program so that the engineering team could start using the final product right away.
 
-the second was writing documentation for the program (which i used Sphinx/ReadTheDocs and ReStructuredText for) -- both user documentation and code/API documentation. this was a pretty time-consuming task: on the user side, importing the layouts and using my own program all the time made me pick up a lot of tips, tricks, and useful info that i wanted to share in the docs; on the code side, there was just quite a lot of code. and the implementation choices i made in some places were probably pretty confusing/perhaps even dubious. and on top of that, the program included an API that allowed it to run in a script, which brings me to the next task.
+the second was writing documentation for the program (which i used Sphinx/ReadTheDocs and ReStructuredText for) -- both user documentation and code/API documentation. this was a pretty time-consuming task: on the user side, importing the layouts and using my own program all the time made me pick up a lot of tips, tricks, and useful info that i wanted to share in the docs; on the code side, there was just quite a lot of code. and the implementation choices i made in some places were probably pretty confusing/perhaps even dubious at times. and on top of that, the i needed to document the API included in the program that allowed users to run things in a script, which brings me to the next task.
 
-the third task was to produce an example script utilizing the program's API in order to essentially automate the process of putting together multiple device layouts into one big multi-layout GDSII file to be sent to foundries (more technical detail will be below).
+the third task was to produce an example script utilizing the program's API to essentially automate the process of putting together multiple device layouts into one big multi-layout GDSII file, which would then be sent to foundries for manufacturing (more technical detail will be below).
 
 the last task was a final presentation to the engineering team and the CEO, where i presented about topics including:
 
