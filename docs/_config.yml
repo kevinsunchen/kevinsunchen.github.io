@@ -13,9 +13,11 @@ author:
   name:              kevin chen
   url:               https://twitter.com/kevinsunchen
   email:             kschen@mit.edu
-  linkedin:          
+  linkedin:          https://www.linkedin.com/in/kevinsunchen/
 
 # Biographical Info
+bioinfo:
+  currentlocation: Cambridge, MA
 
 # Gems
 plugins:
