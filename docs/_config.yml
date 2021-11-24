@@ -8,11 +8,14 @@ permalink:           pretty
 github:
   repo: https://github.com/kevinsunchen/kevinsunchen.github.io
 
-# About/contact
+# About/Contact
 author:
   name:              kevin chen
   url:               https://twitter.com/kevinsunchen
   email:             kschen@mit.edu
+  linkedin:          
+
+# Biographical Info
 
 # Gems
 plugins:

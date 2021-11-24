@@ -10,16 +10,18 @@ title: about me
 who i am
 --------
 
-hi! i'm kevin chen, a sophomore at MIT in Course 6-2 (EECS). i'm currently (fall 2020) located in San Diego, CA.
+hi! i'm kevin chen, a 3rd-year undergrad at MIT in Course 6-2 (electrical engineering & computer science). i'm currently (fall 2021) located in Cambridge, MA.
 
-my email is [kschen at mit dot edu](mailto:kschen@mit.edu), and my resume can be found [here](/resume/){:target="_blank"}. 
+my email is [kschen at mit dot edu](mailto:kschen@mit.edu), and my resume can be found [here](/resume/){:target="_blank"}. my LinkedIn is [https://www.linkedin.com/in/kevinsunchen/](https://www.linkedin.com/in/kevinsunchen/).
 
 things i do
 -----------
 
-i recently concluded a summer internship at [Cambridge Electronics, Inc.](http://www.gantechnology.com/) as a software development/device modeling intern. over IAP 2020, i interned at [MIT Lincoln Laboratory's Advanced Lasercom Systems and Operations Group](https://www.ll.mit.edu/r-d/communication-systems/advanced-lasercom-systems-and-operations){:target="_blank} as a research intern/undergraduate technical assistant.
+this past summer (2021), i interned at Amazon Digital Goods as a software development engineer intern in the Commerce Setup team. over January 2021, i competed in the [MIT Web.lab 2021 Web Programming Competition](https://weblab.mit.edu/winners/#:~:text=3rd%20Place-,musicards,-by%20Kevin%20Chen){:target="_blank"} and created [musicards!](https://musicards-mit.herokuapp.com/){:target="_blank"}, which won 3rd place out of 90+ teams, as well as the Most Unique Concept Award and Appian Special Category Sponsor Award.
 
-on-campus, i'm involved with the [2020 MIT Fall Career Fair Committee](https://career-fair.mit.edu/){:target="_blank"} as Day-Of Logistics Director, and [MIT IEEE/ACM](http://ieeeacm.mit.edu/){:target="_blank"} as Social Chair.
+in summer 2020, i interned at [Cambridge Electronics, Inc.](http://www.gantechnology.com/){:target="_blank"} as a software development/device modeling intern (read about that [here](/posts/2020-08-28-summer-internship/){:target="_blank"}!). over January 2020, i interned at [MIT Lincoln Laboratory's Advanced Lasercom Systems and Operations Group](https://www.ll.mit.edu/r-d/communication-systems/advanced-lasercom-systems-and-operations){:target="_blank"} as a research intern/undergraduate technical assistant.
+
+on-campus, i'm president of [MIT IEEE/ACM](http://ieeeacm.mit.edu/){:target="_blank"}, and Operations Chair of [MIT Web.lab 2022](https://weblab.mit.edu/){:target="_blank"} (which i competed in last year!). in fall 2020, i was involved with [MIT Battlecode](https://battlecode.org/) as a Tech Dev on the engine team. previously, i was Day-Of Logistics Director for the [2020 MIT Fall Career Fair Committee](https://career-fair.mit.edu/){:target="_blank"}.
 
 
 what i've been up to recently
@@ -27,8 +29,8 @@ what i've been up to recently
 
 * taking (socially-distanced) evening walks
 * looking for pink/purple/red sunsets
-* keeping a "virtual diary" of sorts
-* creating what is essentially an industrialized river valley civilization in minecraft with friends
+* looking for/applying to summer 2021 internship
+* grinding genshin impact
 * <del>stressing</del> thinking about fall term
 
 
@@ -39,7 +41,7 @@ comes nectar at the roadside, succulent<br>
 peaches we devour, dusty skin and all,<br>
 comes the familiar dust of summer, dust we eat....<br><br>
 -- Li-Young Lee, <a href="https://www.poetryfoundation.org/poems/43012/from-blossoms" target="_blank">"From Blossoms"</a>
-  </p>
+</p>
 {% endcapture %}
 
 {% include right-image.html image_path="/assets/images/me.jpg" description=about-body %}
