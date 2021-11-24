@@ -17,7 +17,9 @@ my email is [kschen at mit dot edu](mailto:kschen@mit.edu), and my resume can be
 things i do
 -----------
 
-this past summer (2021), i interned at Amazon Digital Goods as a software development engineer intern in the Commerce Setup team. over January 2021, i competed in the [MIT Web.lab 2021 Web Programming Competition](https://weblab.mit.edu/winners/#:~:text=3rd%20Place-,musicards,-by%20Kevin%20Chen){:target="_blank"} and created [musicards!](https://musicards-mit.herokuapp.com/){:target="_blank"}, which won 3rd place out of 90+ teams, as well as the Most Unique Concept Award and Appian Special Category Sponsor Award.
+this past summer (2021), i interned at Amazon Digital Goods as a software development engineer intern in the Commerce Setup team. find out more [here](/2021/11/24/summer-internship-adg2021/)!
+
+over January 2021, i competed in the [MIT Web.lab 2021 Web Programming Competition](https://weblab.mit.edu/winners/#:~:text=3rd%20Place-,musicards,-by%20Kevin%20Chen){:target="_blank"} and created [musicards!](https://musicards-mit.herokuapp.com/){:target="_blank"}, which won 3rd place out of 90+ teams, as well as the Most Unique Concept Award and Appian Special Category Sponsor Award.
 
 in summer 2020, i interned at [Cambridge Electronics, Inc.](http://www.gantechnology.com/){:target="_blank"} as a software development/device modeling intern (read about that [here](/2020/08/28/summer-internship-cei2020/){:target="_blank"}!).
 
