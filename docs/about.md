@@ -10,7 +10,7 @@ title: about me
 who i am
 --------
 
-hi! i'm kevin chen, a 3rd-year undergrad at MIT in Course 6-2 (electrical engineering & computer science). i'm currently (fall 2021) located in {{ bioinfo.currentlocation }}.
+hi! i'm kevin chen, a 3rd-year undergrad at MIT in Course 6-2 (electrical engineering & computer science). i'm currently (fall 2021) located in {{ site.bioinfo.currentlocation }}.
 
 my email is [kschen at mit dot edu](mailto:kschen@mit.edu), and my resume can be found [here](/resume/){:target="_blank"}. my LinkedIn is [https://www.linkedin.com/in/kevinsunchen/](https://www.linkedin.com/in/kevinsunchen/).
 
